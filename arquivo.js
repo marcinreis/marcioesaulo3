@@ -1,2 +1,2 @@
-let i = 0
-let x = 0
+let i = 2
+let x = 1
